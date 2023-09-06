@@ -1,5 +1,5 @@
-# this is a title!
-## I wasn't able to get the lecture title. sorry!
+# How Effectively Does Canada’s Federal Political System Govern Canada for All Canadians?
+## 2023-09-06
 
 ### What makes something an Issue?
 It's usually a topic that has a wide range of responses, and it has a general net impact on a lot of people. It's usually a framed and unbiased question, and can be solved with one clear (right or wrong!) answer.
