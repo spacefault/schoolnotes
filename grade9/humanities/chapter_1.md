@@ -26,4 +26,5 @@ The Municipal Government handles inquiries related to cities, towns, and village
 
 # incomplete!
 this section is incomplete
+
 i'll try my best to fill it in, but i appreciate support through PRs!
