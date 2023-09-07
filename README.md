@@ -13,4 +13,4 @@ this collection has the notes from the following grades:
 
 i don't really know why you need my notes, but here you go!
 ## TO-DO
-[ ] Add Linting workflow
+- [ ] Add Linting workflow
